@@ -52,8 +52,7 @@ dependencies {
 }
 
 group = 'com.maxbill'
-version = '0.0.1-SNAPSHOT'
-description = 'RedisPlus'
+description = 'redis'
 sourceCompatibility = JavaVersion.VERSION_11
 targetCompatibility = JavaVersion.VERSION_11
 
