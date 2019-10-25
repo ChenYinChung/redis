@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Oct 22 16:25:52 CST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-016d-f292-872c-00000e2ec668 
+on database directory /Users/sammy/.redis_plus/data with class loader org.springframework.boot.loader.LaunchedURLClassLoader@d2cc05a 
+Loaded from jar:file:/Users/sammy/git/survey/reids/build/libs/RedisPlus-0.0.1-SNAPSHOT.jar!/BOOT-INF/lib/derby-10.13.1.1.jar!/
+java.vendor=AdoptOpenJDK
+java.runtime.version=11.0.4+11
+user.dir=/Users/sammy/git/survey/reids
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.15
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
